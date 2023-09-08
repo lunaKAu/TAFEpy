@@ -1,0 +1,24 @@
+Petr|Lose|2
+Luna|Win|6
+Gosha|Lose|2
+Alex|Lose|3
+Luna | Lose | 4
+Ada | Lose | 5
+Love | Lose | 5
+ | Lose | 2
+Ien | Lose | 1
+Lose | 2 | Djin
+Lose | 5 | Sofi
+Lose | 1 | 
+Lose | 2 | 
+Lose | 2 | Anonimous gamer
+Lose | 2 | Anonimous gamer
+Lose | 1 | Anonimous gamer
+Lose | 2 | Anonimous gamer
+Lose | 4 | ko
+Lose | 1 | Una
+Lose | 3 | 
+Lose | 2 | Anonymous gamer
+Lose | 5 | TesterL
+Lose | 3 | Tester L Fail
+Win | 2 | Tester L - WIN
